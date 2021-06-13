@@ -1,0 +1,13 @@
+import json
+
+config = {
+    'discount_rate' : 0.99,
+    'epsilon' : 0.1,
+    'beta' : 0.01,
+    'tmax' : 320,
+    'SGD_epoch' : 4,
+    'num_epsiodes': 50,
+    'lr': 1e-4,
+    'num_parallel_envs': 8,
+    
+}
